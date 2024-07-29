@@ -1,0 +1,13 @@
+[
+  {
+    "module": "users",
+    "prefix": "/api/users",
+    "endpoints": [
+      {
+        "name": "getUsers",
+        "method": "GET",
+        "url": "/{id}"
+      }
+    ]
+  }
+]

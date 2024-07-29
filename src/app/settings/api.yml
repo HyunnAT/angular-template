@@ -1,0 +1,4 @@
+users:
+  prefix: "/api/users"
+  type: CRUD
+  endpoints:
